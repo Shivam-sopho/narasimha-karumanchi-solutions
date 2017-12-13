@@ -1,0 +1,1 @@
+This directory consists of the examples and problems of link-list chapter along with the their implementations in c++ language
